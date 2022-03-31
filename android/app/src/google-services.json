@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195988507834",
+    "project_id": "apartey-2712b",
+    "storage_bucket": "apartey-2712b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195988507834:android:12af76e03a4f8e1051c683",
+        "android_client_info": {
+          "package_name": "com.apartey.apartey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195988507834-vkmodgkq0hdqc9n2vogdjtmka1s4ifhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLnsfcX2DHpfTkRF6M47Tsvp88wdUOsm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195988507834-vkmodgkq0hdqc9n2vogdjtmka1s4ifhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
